@@ -1,4 +1,4 @@
-name: calculator
+name: calculator_app
 description: Production-quality Flutter calculator with scientific mode.
 publish_to: 'none'
 

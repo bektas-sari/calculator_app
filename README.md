@@ -123,6 +123,18 @@ Tap history icon to view last 20 calculations. Tap any result to reuse it.
 - Regex patterns for locale formatting vary by platform
 - Complex numbers not supported (by spec)
 
+## 👤 Developer
+
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
+
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+
 ## License
 
 MIT
